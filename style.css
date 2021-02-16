@@ -1,0 +1,47 @@
+body{
+    background-color: peru;
+}
+
+
+h1#titulo{
+    color: blue;
+    text-align: center
+}
+
+
+p.bitcoin{
+color: blue;    
+position: relative;
+left: 80%;
+}
+
+p.etherum{
+    background-color: white;
+    color: blue;
+    position: relative;
+    left: 60%;
+}
+
+p.litecoin{
+    color: blue;
+    position: relative;
+    left: 20%;
+
+}
+
+footer.footer1{
+    background-color: yellow;
+text-align: center;
+}
+
+span#nombre{
+    color: red;
+
+}
+
+footer.footer2{
+    background-color: yellow;
+    text-align: center;
+position: relative;
+bottom: 80%;
+}
